@@ -1,9 +1,10 @@
 <!-- PROJECT LOGO -->
 <div id="top">
-<h3 align="center">DiscordJS-SplitMessage</h3>
+<h3 align="center">DiscordJS-BetterUtil</h3>
 
   <p align="center">
-    Maintained version of splitMessage function from discord.js
+    Maintained version of Util function from discord.js and much more in the future!
+    The aim of this project is to create a utility plugin that makes creating Discord bots a much more pleasant experience.
   </p>
 </div>
 
@@ -36,7 +37,7 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 Import the repository files into your project using the ``require()`` function
-Example : ``const Splitter = require('splitter.js');``
+Example : ``const Util = require('util.js');``
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -46,6 +47,7 @@ Example : ``const Splitter = require('splitter.js');``
 ## Roadmap
 
 - [x] splitMessage()
+- [ ] NPM Package
 - [ ] More to come!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
