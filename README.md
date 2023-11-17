@@ -1,3 +1,6 @@
+> **Deprecated / Abandoned warning: This repository is no longer maintained.** 
+<hr>
+
 <!-- PROJECT LOGO -->
 <div id="top">
 <h3 align="center">DiscordJS-BetterUtil</h3>
